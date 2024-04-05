@@ -22,5 +22,13 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&kp RIGHT_ALT(W)",
+		"name": "&kp RIGHT_ALT(W)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
