@@ -1,1 +1,18 @@
-[]
+[
+	{
+		"code": "&kp RALT(w)",
+		"name": "&kp RALT(w)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp RALT(b)",
+		"name": "&kp RALT(b)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
