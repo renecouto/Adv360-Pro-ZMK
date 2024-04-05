@@ -14,5 +14,13 @@
 			"code"
 		],
 		"type": "UD"
+	},
+	{
+		"code": "&kp RA(w)",
+		"name": "&kp RA(w)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
 	}
 ]
